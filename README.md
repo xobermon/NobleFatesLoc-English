@@ -1,5 +1,8 @@
 This is the Raw (English) Information Text for Noble Fates. New strings will be added here when the game receives updates.
 
+# Warning
+Do not Fork this repository for new translations, use NobleFatesLoc instead.
+
 # Help
 The best place to get help is on the Offical Noble Fates Discord: ```https://discord.gg/HeAaQcS```
 
