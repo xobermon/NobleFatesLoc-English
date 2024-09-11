@@ -14316,7 +14316,7 @@ Oct.Code.Common.Maintain=Maintain
 \\	Oct.Code.Common.Mortal=Mortal
 \\
 \\\\
-Oct.Code.Common.Mortal=\\untranslated
+Oct.Code.Common.Mortal=Mortal
 
 \\\\
 \\
@@ -23123,14 +23123,14 @@ Oct.Code.Selection.Multiselect.Header=Select
 \\	Oct.Code.Selection.Cycle.Target=[R Click] Target
 \\
 \\\\
-Oct.Code.Selection.Cycle.Target=\\untranslated
+Oct.Code.Selection.Cycle.Target=[R Click] Target
 
 \\\\
 \\
 \\	Oct.Code.Selection.Cycle.Selection=[L Click] Select
 \\
 \\\\
-Oct.Code.Selection.Cycle.Selection=\\untranslated
+Oct.Code.Selection.Cycle.Selection=[L Click] Select
 
 \\\\
 \\
@@ -63479,7 +63479,7 @@ Oct.Settings.Global.Graphics.PortraitCount.name=Portrait Count
 \\	Oct.Settings.Global.Graphics.PortraitCount.tooltip=The Number of Portraits at the top of the Screen.
 \\
 \\\\
-Oct.Settings.Global.Graphics.PortraitCount.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.PortraitCount.tooltip=The Number of Portraits at the top of the Screen.
 
 \\\\
 \\
@@ -63514,7 +63514,7 @@ Oct.Settings.Global.Interface.CloseTradeWindow.name=Close Trade Window after Dea
 \\	Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=When enabled, the Trade Window is Closed after you make a deal.
 \\
 \\\\
-Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=\\untranslated
+Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=When enabled, the Trade Window is Closed after you make a deal.
 
 \\\\
 \\
@@ -63528,42 +63528,42 @@ Oct.Settings.Global.Interface.BelongingsPortraitResort.name=Belongings Portrait 
 \\	Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=When enabled, Portraits can Re-sort from Prestige changes while you are on the Belongings Screen.
 \\
 \\\\
-Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=\\untranslated
+Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=When enabled, Portraits can Re-sort from Prestige changes while you are on the Belongings Screen.
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.name=Untuck Tools When
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.name=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.name=Untuck Tools When
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.1=Any Hovered
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.1=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.1=Any Hovered
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.2=When Hovered
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.2=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.2=When Hovered
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.3=Always
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.3=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.3=Always
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.tooltip=Controls when the Tabs on the Toolbar are untucked.
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.tooltip=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.tooltip=Controls when the Tabs on the Toolbar are untucked.
 
 \\\\
 \\
