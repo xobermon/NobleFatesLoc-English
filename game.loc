@@ -12531,7 +12531,7 @@ Oct.Code.Command.Blocked=Blocked
 \\	Oct.Code.Command.Feed.Blocked.NoFoodAvailable=No Allowed Food Available
 \\
 \\\\
-Oct.Code.Command.Feed.Blocked.NoFoodAvailable=\\untranslated
+Oct.Code.Command.Feed.Blocked.NoFoodAvailable=No Allowed Food Available
 
 \\\\
 \\
@@ -17226,7 +17226,7 @@ Oct.Code.Information.Freed.SubjectWas.Third={subject} was
 \\	Oct.Code.Information.FeelBetter.Advanced={subject.con(I feel,you feel,{subject} feels)} better about {ruler.con(me,you,{ruler})}
 \\
 \\\\
-Oct.Code.Information.FeelBetter.Advanced={subject.con(I,you,{subject})} feels better about {ruler.con(me,you,{ruler})}
+Oct.Code.Information.FeelBetter.Advanced={subject.con(I feel,you feel,{subject} feels)} better about {ruler.con(me,you,{ruler})}
 
 \\\\
 \\
@@ -22605,21 +22605,21 @@ Oct.Code.Report.Header=Report an Issue
 \\	Oct.Code.Report.Summary=Summary
 \\
 \\\\
-Oct.Code.Report.Summary=\\untranslated
+Oct.Code.Report.Summary=Summary
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact=Contact Info
 \\
 \\\\
-Oct.Code.Report.Contact=\\untranslated
+Oct.Code.Report.Contact=Contact Info
 
 \\\\
 \\
 \\	Oct.Code.Report.Contact.Tooltip=How do we get in touch?\n\nEmail, Discord, Steam ID work - please specify the type if it isn't clear.\n\nAutomatically saved for your convenience.
 \\
 \\\\
-Oct.Code.Report.Contact.Tooltip=\\untranslated
+Oct.Code.Report.Contact.Tooltip=How do we get in touch?\n\nEmail, Discord, Steam ID work - please specify the type if it isn't clear.\n\nAutomatically saved for your convenience.
 
 \\\\
 \\
@@ -29460,28 +29460,28 @@ Oct.Grammar.Needs.Comfort.Grammar.Subceeded.results+=^<Oct.Character.Needs.Comfo
 \\	Oct.Grammar.Needs.Lodging.Grammar.Exceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> extremely satisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 \\
 \\\\
-Oct.Grammar.Needs.Lodging.Grammar.Exceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> extremely satisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> lodging.
+Oct.Grammar.Needs.Lodging.Grammar.Exceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> extremely satisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 
 \\\\
 \\
 \\	Oct.Grammar.Needs.Lodging.Grammar.Met.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> fine with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 \\
 \\\\
-Oct.Grammar.Needs.Lodging.Grammar.Met.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> fine with <Oct.Character.Needs.Grammar.PawnMyYourTheir> lodging.
+Oct.Grammar.Needs.Lodging.Grammar.Met.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> fine with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 
 \\\\
 \\
 \\	Oct.Grammar.Needs.Lodging.Grammar.Unmet.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> unhappy with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 \\
 \\\\
-Oct.Grammar.Needs.Lodging.Grammar.Unmet.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> unhappy with <Oct.Character.Needs.Grammar.PawnMyYourTheir> lodging.
+Oct.Grammar.Needs.Lodging.Grammar.Unmet.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> unhappy with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 
 \\\\
 \\
 \\	Oct.Grammar.Needs.Lodging.Grammar.Subceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> very unsatisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 \\
 \\\\
-Oct.Grammar.Needs.Lodging.Grammar.Subceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> very unsatisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> lodging.
+Oct.Grammar.Needs.Lodging.Grammar.Subceeded.results+=^<Oct.Character.Needs.Lodging.Grammar.PawnIsWas> very unsatisfied with <Oct.Character.Needs.Grammar.PawnMyYourTheir> Lodging.
 
 \\\\
 \\
