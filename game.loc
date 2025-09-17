@@ -3,7 +3,7 @@
 \\	Ocde.Code.Command.Score.PersonalCommand.Definition=This Command belongs to this Mortal.
 \\
 \\\\
-Ocde.Code.Command.Score.PersonalCommand.Definition=\\untranslated
+Ocde.Code.Command.Score.PersonalCommand.Definition=This Command belongs to this Mortal.
 
 \\\\
 \\
@@ -8604,35 +8604,35 @@ Oct.Code.Character.Age.Adult.Old=Old Adult
 \\	Oct.Code.Character.Preset.Overwrite=Overwrite?
 \\
 \\\\
-Oct.Code.Character.Preset.Overwrite=\\untranslated
+Oct.Code.Character.Preset.Overwrite=Overwrite?
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.AlreadyExists=A Preset with this Name already Exists.<br><br>Overwrite?<br>
 \\
 \\\\
-Oct.Code.Character.Preset.AlreadyExists=\\untranslated
+Oct.Code.Character.Preset.AlreadyExists=A Preset with this Name already Exists.<br><br>Overwrite?<br>
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Apply.header=Apply Preset?
 \\
 \\\\
-Oct.Code.Character.Preset.Apply.header=\\untranslated
+Oct.Code.Character.Preset.Apply.header=Apply Preset?
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Apply=The Preset will overwrite this Mortals details.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.Character.Preset.Apply=\\untranslated
+Oct.Code.Character.Preset.Apply=The Preset will overwrite this Mortals details.<br><br>Continue?<br>
 
 \\\\
 \\
 \\	Oct.Code.Character.Preset.Delete.Header=Delete Preset?
 \\
 \\\\
-Oct.Code.Character.Preset.Delete.Header=\\untranslated
+Oct.Code.Character.Preset.Delete.Header=Delete Preset?
 
 \\\\
 \\
@@ -9241,7 +9241,7 @@ Oct.Code.Characters.Commands.Tame=Tame
 \\	Oct.Code.Characters.Commands.Evangelize=Evangelize
 \\
 \\\\
-Oct.Code.Characters.Commands.Evangelize=\\untranslated
+Oct.Code.Characters.Commands.Evangelize=Evangelize
 
 \\\\
 \\
@@ -9486,7 +9486,7 @@ Oct.Code.Characters.Mission.Withdraw=Withdraw
 \\	Oct.Code.Characters.Tooltips.SkillPoints=When a Mortal uses a Skill, they log progress towards their next Point in that Skill. Unrelated Skills gain a small amount of progress based on the Mortal's Potential in them.<br><br>When a Mortal gains enough XP for their next Level, any Skills with Progress of 100% are Banked. Those Banked Points are added when the Level Up is applied.<br><br>The Lvl 20 projection is based on current Skill Points, Progress, and Potential.
 \\
 \\\\
-Oct.Code.Characters.Tooltips.SkillPoints=<i>When a Mortal uses a Skill, they log progress towards their next Point in that Skill. Unrelated Skills gain a small amount of progress based on the Mortal's Potential in them.<br><br>When a Mortal gains enough XP for their next Level, any Skills with Progress of 100% are Banked. Those Banked Points are added when the Level Up is applied.<br><br>The Lvl 20 projection is based on current Skill Points, Progress, and Potential.</i>
+Oct.Code.Characters.Tooltips.SkillPoints=When a Mortal uses a Skill, they log progress towards their next Point in that Skill. Unrelated Skills gain a small amount of progress based on the Mortal's Potential in them.<br><br>When a Mortal gains enough XP for their next Level, any Skills with Progress of 100% are Banked. Those Banked Points are added when the Level Up is applied.<br><br>The Lvl 20 projection is based on current Skill Points, Progress, and Potential.
 
 \\\\
 \\
@@ -9983,7 +9983,7 @@ Oct.Code.Characters.Relationship.Child=Child
 \\	Oct.Code.Characters.Instincts.Controlled=Controlled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Controlled=\\untranslated
+Oct.Code.Characters.Instincts.Controlled=Controlled
 
 \\\\
 \\
@@ -10018,28 +10018,28 @@ Oct.Code.Characters.ThirdPerson.Controls.DropAll=Drop All
 \\	Oct.Code.Characters.Instincts.Downed.Carried=Carried
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Carried=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Carried=Carried
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Downed=Downed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Downed=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Downed=Downed
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Unconscious=Unconscious
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Unconscious=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Unconscious=Unconscious
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Downed.Tantrum=Throwing a Tantrum
 \\
 \\\\
-Oct.Code.Characters.Instincts.Downed.Tantrum=\\untranslated
+Oct.Code.Characters.Instincts.Downed.Tantrum=Throwing a Tantrum
 
 \\\\
 \\
@@ -10053,56 +10053,56 @@ Oct.Code.Characters.Pain.BloodLoss=Blood Loss
 \\	Oct.Code.Characters.Instincts.Eat=Eat
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat=\\untranslated
+Oct.Code.Characters.Instincts.Eat=Eat
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Eating=Eating
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Eating=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Eating=Eating
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.BeingFed=Being Fed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.BeingFed=\\untranslated
+Oct.Code.Characters.Instincts.Eat.BeingFed=Being Fed
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Hungry=Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Hungry=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Hungry=Hungry
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=No Food Available
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=\\untranslated
+Oct.Code.Characters.Instincts.Eat.Hungry.NoFood=No Food Available
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Eat.NotHungry=Not Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Eat.NotHungry=\\untranslated
+Oct.Code.Characters.Instincts.Eat.NotHungry=Not Hungry
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Emote=Emote
 \\
 \\\\
-Oct.Code.Characters.Instincts.Emote=\\untranslated
+Oct.Code.Characters.Instincts.Emote=Emote
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Emote.Dancing=Dancing
 \\
 \\\\
-Oct.Code.Characters.Instincts.Emote.Dancing=\\untranslated
+Oct.Code.Characters.Instincts.Emote.Dancing=Dancing
 
 \\\\
 \\
@@ -10130,14 +10130,14 @@ Oct.Code.Characters.Toasts.Escape.Thwarted={character}'s escape thwarted!
 \\	Oct.Code.Characters.Instincts.Escape=Escape
 \\
 \\\\
-Oct.Code.Characters.Instincts.Escape=\\untranslated
+Oct.Code.Characters.Instincts.Escape=Escape
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Escape.Escaping=Escaping
 \\
 \\\\
-Oct.Code.Characters.Instincts.Escape.Escaping=\\untranslated
+Oct.Code.Characters.Instincts.Escape.Escaping=Escaping
 
 \\\\
 \\
@@ -10179,28 +10179,28 @@ Oct.Code.Characters.State.Escaping=Escaping
 \\	Oct.Code.Characters.Instincts.Fight=Fight
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight=\\untranslated
+Oct.Code.Characters.Instincts.Fight=Fight
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.Fighting=Fighting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.Fighting=\\untranslated
+Oct.Code.Characters.Instincts.Fight.Fighting=Fighting
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.WantsToFIght=Wants to Fight
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.WantsToFIght=\\untranslated
+Oct.Code.Characters.Instincts.Fight.WantsToFIght=Wants to Fight
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Fight.Enlisted=Enlisted
 \\
 \\\\
-Oct.Code.Characters.Instincts.Fight.Enlisted=\\untranslated
+Oct.Code.Characters.Instincts.Fight.Enlisted=Enlisted
 
 \\\\
 \\
@@ -10214,28 +10214,28 @@ Oct.Code.Characters.State.Fighting=Fighting
 \\	Oct.Code.Characters.Instincts.Flee=Flee
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee=\\untranslated
+Oct.Code.Characters.Instincts.Flee=Flee
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.Enlisted=Enlisted
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.Enlisted=\\untranslated
+Oct.Code.Characters.Instincts.Flee.Enlisted=Enlisted
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.UnderFire=Under Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.UnderFire=\\untranslated
+Oct.Code.Characters.Instincts.Flee.UnderFire=Under Fire
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Flee.Fire=Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Flee.Fire=\\untranslated
+Oct.Code.Characters.Instincts.Flee.Fire=Fire
 
 \\\\
 \\
@@ -10249,21 +10249,21 @@ Oct.Code.Characters.State.Fleeing=Fleeing
 \\	Oct.Code.Characters.Instincts.Graze=Graze
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze=\\untranslated
+Oct.Code.Characters.Instincts.Graze=Graze
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Graze.Grazing=Grazing
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze.Grazing=\\untranslated
+Oct.Code.Characters.Instincts.Graze.Grazing=Grazing
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Graze.NoFoodNearby=No Food Nearby
 \\
 \\\\
-Oct.Code.Characters.Instincts.Graze.NoFoodNearby=\\untranslated
+Oct.Code.Characters.Instincts.Graze.NoFoodNearby=No Food Nearby
 
 \\\\
 \\
@@ -10277,28 +10277,28 @@ Oct.Code.Characters.State.Grazing=Grazing
 \\	Oct.Code.Characters.Instincts.Herd=Herd
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd=\\untranslated
+Oct.Code.Characters.Instincts.Herd=Herd
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.Hungry=Hungry
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.Hungry=\\untranslated
+Oct.Code.Characters.Instincts.Herd.Hungry=Hungry
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.TargetTooFar=Target Too Far
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.TargetTooFar=\\untranslated
+Oct.Code.Characters.Instincts.Herd.TargetTooFar=Target Too Far
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Herd.NewTarget=New Target
 \\
 \\\\
-Oct.Code.Characters.Instincts.Herd.NewTarget=\\untranslated
+Oct.Code.Characters.Instincts.Herd.NewTarget=New Target
 
 \\\\
 \\
@@ -10312,14 +10312,14 @@ Oct.Code.Characters.State.FollowingHerd=Following Herd
 \\	Oct.Code.Characters.Instincts.Hunt=Hunt
 \\
 \\\\
-Oct.Code.Characters.Instincts.Hunt=\\untranslated
+Oct.Code.Characters.Instincts.Hunt=Hunt
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Hunt.Hunting=Hunting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Hunt.Hunting=\\untranslated
+Oct.Code.Characters.Instincts.Hunt.Hunting=Hunting
 
 \\\\
 \\
@@ -10333,98 +10333,98 @@ Oct.Code.Characters.State.Hunting=Hunting
 \\	Oct.Code.Characters.Instincts.Relax=Relax
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax=\\untranslated
+Oct.Code.Characters.Instincts.Relax=Relax
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Celebrating=Celebrating
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Celebrating=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Celebrating=Celebrating
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Scheduled=Scheduled
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=Disregarding Schedule
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=\\untranslated
+Oct.Code.Characters.Instincts.Relax.DisregardingSchedule=Disregarding Schedule
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Yodeling=Yodeling
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Yodeling=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Yodeling=Yodeling
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.Sit=Sitting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.Sit=\\untranslated
+Oct.Code.Characters.Instincts.Relax.Sit=Sitting
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Relax.CanRelax=Can Relax
 \\
 \\\\
-Oct.Code.Characters.Instincts.Relax.CanRelax=\\untranslated
+Oct.Code.Characters.Instincts.Relax.CanRelax=Can Relax
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest=Rest
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest=\\untranslated
+Oct.Code.Characters.Instincts.Rest=Rest
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.UntilHealed=Resting Until Healed
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.UntilHealed=\\untranslated
+Oct.Code.Characters.Instincts.Rest.UntilHealed=Resting Until Healed
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Ordered=Ordered
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Ordered=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Ordered=Ordered
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Resting=Resting
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Resting=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Resting=Resting
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.NeedRest=Need Rest
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.NeedRest=\\untranslated
+Oct.Code.Characters.Instincts.Rest.NeedRest=Need Rest
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Rest.Scheduled=Scheduled
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Rest.InPain=In Pain
 \\
 \\\\
-Oct.Code.Characters.Instincts.Rest.InPain=\\untranslated
+Oct.Code.Characters.Instincts.Rest.InPain=In Pain
 
 \\\\
 \\
@@ -10445,84 +10445,84 @@ Oct.Code.Characters.State.Sleepign=Sleeping
 \\	Oct.Code.Characters.Instincts.Socialize=Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize=\\untranslated
+Oct.Code.Characters.Instincts.Socialize=Socialize
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Socialize.NeedsTo=Need to Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize.NeedsTo=\\untranslated
+Oct.Code.Characters.Instincts.Socialize.NeedsTo=Need to Socialize
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Socialize.WantsTo=Want to Socialize
 \\
 \\\\
-Oct.Code.Characters.Instincts.Socialize.WantsTo=\\untranslated
+Oct.Code.Characters.Instincts.Socialize.WantsTo=Want to Socialize
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work=Work
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work=\\untranslated
+Oct.Code.Characters.Instincts.Work=Work
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Ordered=Ordered
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Ordered=\\untranslated
+Oct.Code.Characters.Instincts.Work.Ordered=Ordered
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.FightingFire=Fighting Fire
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.FightingFire=\\untranslated
+Oct.Code.Characters.Instincts.Work.FightingFire=Fighting Fire
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.CriticalWork=Critical Work
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.CriticalWork=\\untranslated
+Oct.Code.Characters.Instincts.Work.CriticalWork=Critical Work
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Scheduled=Scheduled
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Scheduled=\\untranslated
+Oct.Code.Characters.Instincts.Work.Scheduled=Scheduled
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.Working=Working
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.Working=\\untranslated
+Oct.Code.Characters.Instincts.Work.Working=Working
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.ToDo=Have Work to do
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.ToDo=\\untranslated
+Oct.Code.Characters.Instincts.Work.ToDo=Have Work to do
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.TakingABreak=Taking a Break
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.TakingABreak=\\untranslated
+Oct.Code.Characters.Instincts.Work.TakingABreak=Taking a Break
 
 \\\\
 \\
 \\	Oct.Code.Characters.Instincts.Work.NoWorkToDo=No Work to do
 \\
 \\\\
-Oct.Code.Characters.Instincts.Work.NoWorkToDo=\\untranslated
+Oct.Code.Characters.Instincts.Work.NoWorkToDo=No Work to do
 
 \\\\
 \\
@@ -11999,7 +11999,7 @@ Oct.Code.Characters.Sheet.Tabs.Vitals=Vitals
 \\	Oct.Code.Characters.Sheet.Tabs.Needs=Needs
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Needs=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Needs=Needs
 
 \\\\
 \\
@@ -12013,7 +12013,7 @@ Oct.Code.Characters.Sheet.Tabs.Jobs=Jobs
 \\	Oct.Code.Characters.Sheet.Tabs.Work=Work
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Work=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Work=Work
 
 \\\\
 \\
@@ -12195,21 +12195,21 @@ Oct.Code.Characters.Rename.Kingdom.Lands=Kingdom Lands
 \\	Oct.Code.Characters.Sheet.Work.Title=Work Queue
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Title=\\untranslated
+Oct.Code.Characters.Sheet.Work.Title=Work Queue
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Work.Tooltip=The Work Queue lists the Commands this Mortal considered when last deciding what to do.\n\nCommands are listed in the order the Mortal will do them - hover a Command to access the list of reasons why.\n\nThe time remaining until their next evaluation is at the bottom.
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Tooltip=\\untranslated
+Oct.Code.Characters.Sheet.Work.Tooltip=The Work Queue lists the Commands this Mortal considered when last deciding what to do.\n\nCommands are listed in the order the Mortal will do them - hover a Command to access the list of reasons why.\n\nThe time remaining until their next evaluation is at the bottom.
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=Glossary
 \\
 \\\\
-Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=\\untranslated
+Oct.Code.Characters.Sheet.Work.Tooltip.Glossary=Glossary
 
 \\\\
 \\
@@ -12230,14 +12230,14 @@ Oct.Code.Characters.Sheet.Rename.Tooltip=Edit Name
 \\	Oct.Code.Characters.Sheet.Edit.Character.Tooltip=Edit
 \\
 \\\\
-Oct.Code.Characters.Sheet.Edit.Character.Tooltip=Edit Appearance
+Oct.Code.Characters.Sheet.Edit.Character.Tooltip=Edit
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Instincts=Instincts
 \\
 \\\\
-Oct.Code.Characters.Sheet.Instincts=\\untranslated
+Oct.Code.Characters.Sheet.Instincts=Instincts
 
 \\\\
 \\
@@ -12629,28 +12629,28 @@ Oct.Code.Characters.Editor.Tabs.Appearance=Appearance
 \\	Oct.Code.Characters.Preset.Save.Title=Save Preset?
 \\
 \\\\
-Oct.Code.Characters.Preset.Save.Title=\\untranslated
+Oct.Code.Characters.Preset.Save.Title=Save Preset?
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Save.Name=Name
 \\
 \\\\
-Oct.Code.Characters.Preset.Save.Name=\\untranslated
+Oct.Code.Characters.Preset.Save.Name=Name
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Save=Save
 \\
 \\\\
-Oct.Code.Characters.Preset.Save=\\untranslated
+Oct.Code.Characters.Preset.Save=Save
 
 \\\\
 \\
 \\	Oct.Code.Characters.Preset.Apply.Header=Apply a Preset
 \\
 \\\\
-Oct.Code.Characters.Preset.Apply.Header=\\untranslated
+Oct.Code.Characters.Preset.Apply.Header=Apply a Preset
 
 \\\\
 \\
@@ -12664,21 +12664,21 @@ Oct.Code.Characters.Editor.Header=Edit {character.short}
 \\	Oct.Code.Characters.Presets=Presets
 \\
 \\\\
-Oct.Code.Characters.Presets=\\untranslated
+Oct.Code.Characters.Presets=Presets
 
 \\\\
 \\
 \\	Oct.Code.Characters.Presets.Save=Save
 \\
 \\\\
-Oct.Code.Characters.Presets.Save=\\untranslated
+Oct.Code.Characters.Presets.Save=Save
 
 \\\\
 \\
 \\	Oct.Code.Characters.Presets.Apply=Apply
 \\
 \\\\
-Oct.Code.Characters.Presets.Apply=\\untranslated
+Oct.Code.Characters.Presets.Apply=Apply
 
 \\\\
 \\
@@ -13133,7 +13133,7 @@ Oct.Code.ChooseRuler.JobAssignments=Job Assignments
 \\	Oct.Code.ChooseRuler.JobsList=Jobs
 \\
 \\\\
-Oct.Code.ChooseRuler.JobsList=Jobs (Hover)
+Oct.Code.ChooseRuler.JobsList=Jobs
 
 \\\\
 \\
@@ -13322,7 +13322,7 @@ Oct.Code.Command.Blocked.PrivatelyOwned=Privately Owned
 \\	Oct.Code.Command.Blocked.TargetBusy=Target is Busy
 \\
 \\\\
-Oct.Code.Command.Blocked.TargetBusy=\\untranslated
+Oct.Code.Command.Blocked.TargetBusy=Target is Busy
 
 \\\\
 \\
@@ -13336,21 +13336,21 @@ Oct.Code.Command.Blocked=Blocked
 \\	Oct.Code.Command.Micro={command} {target}
 \\
 \\\\
-Oct.Code.Command.Micro=\\untranslated
+Oct.Code.Command.Micro={command} {target}
 
 \\\\
 \\
 \\	Oct.Code.Command.Blocked.NothingToShare=Nothing to Share
 \\
 \\\\
-Oct.Code.Command.Blocked.NothingToShare=\\untranslated
+Oct.Code.Command.Blocked.NothingToShare=Nothing to Share
 
 \\\\
 \\
 \\	Oct.Code.Command.Blocked.WontListen={character} won't listen
 \\
 \\\\
-Oct.Code.Command.Blocked.WontListen=\\untranslated
+Oct.Code.Command.Blocked.WontListen={character} won't listen
 
 \\\\
 \\
@@ -13399,63 +13399,63 @@ Oct.Code.Command.Blocked.NeedProp=Need Available {prop}
 \\	Oct.Code.Command.Score.PeronalCommand=Personal Command
 \\
 \\\\
-Oct.Code.Command.Score.PeronalCommand=\\untranslated
+Oct.Code.Command.Score.PeronalCommand=Personal Command
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobPriority=Job Priority
 \\
 \\\\
-Oct.Code.Command.Score.JobPriority=\\untranslated
+Oct.Code.Command.Score.JobPriority=Job Priority
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobPriority.Definition=This Command's Job's Priority for this Mortal from the Jobs Screen.
 \\
 \\\\
-Oct.Code.Command.Score.JobPriority.Definition=\\untranslated
+Oct.Code.Command.Score.JobPriority.Definition=This Command's Job's Priority for this Mortal from the Jobs Screen.
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.CommandRushed=Command Rushed
 \\
 \\\\
-Oct.Code.Command.Score.CommandRushed=\\untranslated
+Oct.Code.Command.Score.CommandRushed=Command Rushed
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.CommandRushed.Definition=This Command has been Rushed.
 \\
 \\\\
-Oct.Code.Command.Score.CommandRushed.Definition=\\untranslated
+Oct.Code.Command.Score.CommandRushed.Definition=This Command has been Rushed.
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobSequence=Job Sequence
 \\
 \\\\
-Oct.Code.Command.Score.JobSequence=\\untranslated
+Oct.Code.Command.Score.JobSequence=Job Sequence
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.JobSequence.Definition=This Command's Sequence within it's Job - see the Job on the Jobs Screen for the full list.
 \\
 \\\\
-Oct.Code.Command.Score.JobSequence.Definition=\\untranslated
+Oct.Code.Command.Score.JobSequence.Definition=This Command's Sequence within it's Job - see the Job on the Jobs Screen for the full list.
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.HelpSetupBase=Help Setup Base
 \\
 \\\\
-Oct.Code.Command.Score.HelpSetupBase=\\untranslated
+Oct.Code.Command.Score.HelpSetupBase=Help Setup Base
 
 \\\\
 \\
 \\	Oct.Code.Command.Score.HelpSetupBase.Definition=This Command is important to setting up the initial base, so the Mortal will help even if not assigned to its Job.
 \\
 \\\\
-Oct.Code.Command.Score.HelpSetupBase.Definition=\\untranslated
+Oct.Code.Command.Score.HelpSetupBase.Definition=This Command is important to setting up the initial base, so the Mortal will help even if not assigned to its Job.
 
 \\\\
 \\
@@ -13546,14 +13546,14 @@ Oct.Code.Commands.CaptureCharacter.Status=Capturing {character}
 \\	Oct.Code.Commands.Heuristics.NoBabiesNearby=No Babies Nearby
 \\
 \\\\
-Oct.Code.Commands.Heuristics.NoBabiesNearby=\\untranslated
+Oct.Code.Commands.Heuristics.NoBabiesNearby=No Babies Nearby
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristics.Outdoors=Outdoors
 \\
 \\\\
-Oct.Code.Commands.Heuristics.Outdoors=\\untranslated
+Oct.Code.Commands.Heuristics.Outdoors=Outdoors
 
 \\\\
 \\
@@ -13686,14 +13686,14 @@ Oct.Code.Commands.Blocked.Characters.TreatedBy=Treated by {character}
 \\	Oct.Code.Commands.Heuristic.Distance=Distance
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Distance=\\untranslated
+Oct.Code.Commands.Heuristic.Distance=Distance
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristic.Age=Age
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Age=\\untranslated
+Oct.Code.Commands.Heuristic.Age=Age
 
 \\\\
 \\
@@ -13728,7 +13728,7 @@ Oct.Code.Commands.ConstructProp.Status=Building {prop}
 \\	Oct.Code.Commands.Heuristics.AwaitingResources=Awaiting Resources
 \\
 \\\\
-Oct.Code.Commands.Heuristics.AwaitingResources=\\untranslated
+Oct.Code.Commands.Heuristics.AwaitingResources=Awaiting Resources
 
 \\\\
 \\
@@ -13840,7 +13840,7 @@ Oct.Code.Commands.DeliverItems.Status=Delivering {items}
 \\	Oct.Code.Commands.Heuristics.CharacterAbove=Character Above
 \\
 \\\\
-Oct.Code.Commands.Heuristics.CharacterAbove=\\untranslated
+Oct.Code.Commands.Heuristics.CharacterAbove=Character Above
 
 \\\\
 \\
@@ -13910,42 +13910,42 @@ Oct.Code.Commands.Equip.Blocked.Unowned=Unowned
 \\	Oct.Code.Commands.Evangelize.Status=Evangelizing {ruler.con(myself,you,{ruler})} to {character}
 \\
 \\\\
-Oct.Code.Commands.Evangelize.Status=\\untranslated
+Oct.Code.Commands.Evangelize.Status=Evangelizing {ruler.con(myself,you,{ruler})} to {character}
 
 \\\\
 \\
 \\	Oct.Code.Commands.Evangelize.Verb=Evangelize {ruler.con(myself,you,{ruler})} To
 \\
 \\\\
-Oct.Code.Commands.Evangelize.Verb=\\untranslated
+Oct.Code.Commands.Evangelize.Verb=Evangelize {ruler.con(myself,you,{ruler})} To
 
 \\\\
 \\
 \\	Oct.Code.Commands.Evangelize.CommandVerbNoun=Evangelize {ruler.con(myself,you,{ruler})} to {character}
 \\
 \\\\
-Oct.Code.Commands.Evangelize.CommandVerbNoun=\\untranslated
+Oct.Code.Commands.Evangelize.CommandVerbNoun=Evangelize {ruler.con(myself,you,{ruler})} to {character}
 
 \\\\
 \\
 \\	Oct.Code.Commands.Blocked.Character.Downed={character} is Downed
 \\
 \\\\
-Oct.Code.Commands.Blocked.Character.Downed=\\untranslated
+Oct.Code.Commands.Blocked.Character.Downed={character} is Downed
 
 \\\\
 \\
 \\	Oct.Code.Commands.Blocked.Character.IsEnemy={character} is an Enemy
 \\
 \\\\
-Oct.Code.Commands.Blocked.Character.IsEnemy=\\untranslated
+Oct.Code.Commands.Blocked.Character.IsEnemy={character} is an Enemy
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristics.CharacterFoodNeed=Character Food Need
 \\
 \\\\
-Oct.Code.Commands.Heuristics.CharacterFoodNeed=\\untranslated
+Oct.Code.Commands.Heuristics.CharacterFoodNeed=Character Food Need
 
 \\\\
 \\
@@ -14176,7 +14176,7 @@ Oct.Code.Commands.Idle.Status=Idling
 \\	Oct.Code.Commands.TransportCharacter.Status=Transporting {character}
 \\
 \\\\
-Oct.Code.Commands.TransportCharacter.Status=\\untranslated
+Oct.Code.Commands.TransportCharacter.Status=Transporting {character}
 
 \\\\
 \\
@@ -14211,14 +14211,14 @@ Oct.Code.Commands.Influence.Subject=Preach About {subject} To
 \\	Oct.Code.Commands.Influence.CommandVerbNoun=Preach to {character} about {subject}
 \\
 \\\\
-Oct.Code.Commands.Influence.CommandVerbNoun=\\untranslated
+Oct.Code.Commands.Influence.CommandVerbNoun=Preach to {character} about {subject}
 
 \\\\
 \\
 \\	Oct.Code.Commands.Influence.Importance=Importance
 \\
 \\\\
-Oct.Code.Commands.Influence.Importance=\\untranslated
+Oct.Code.Commands.Influence.Importance=Importance
 
 \\\\
 \\
@@ -14295,7 +14295,7 @@ Oct.Code.Commands.Blocked.NoMilk=No Milk
 \\	Oct.Code.Commands.Blocked.LowMilk=Low Milk
 \\
 \\\\
-Oct.Code.Commands.Blocked.LowMilk=\\untranslated
+Oct.Code.Commands.Blocked.LowMilk=Low Milk
 
 \\\\
 \\
@@ -14358,7 +14358,7 @@ Oct.Code.Commands.Blocked.ProductionSatisfied=Production Satisfied
 \\	Oct.Code.Commands.Blocked.Waiting=Waiting
 \\
 \\\\
-Oct.Code.Commands.Blocked.Waiting=\\untranslated
+Oct.Code.Commands.Blocked.Waiting=Waiting
 
 \\\\
 \\
@@ -14638,7 +14638,7 @@ Oct.Code.Commands.Blocked.Bed.Unreachable=Bed Unreachable
 \\	Oct.Code.Commands.Heuristics.AlreadyStored=Already Stored
 \\
 \\\\
-Oct.Code.Commands.Heuristics.AlreadyStored=\\untranslated
+Oct.Code.Commands.Heuristics.AlreadyStored=Already Stored
 
 \\\\
 \\
@@ -14701,112 +14701,112 @@ Oct.Code.Commands.Clean=Clean
 \\	Oct.Code.Commands.Score.CommandPriority=Command Priority
 \\
 \\\\
-Oct.Code.Commands.Score.CommandPriority=\\untranslated
+Oct.Code.Commands.Score.CommandPriority=Command Priority
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.NotAssigned=Not Assigned
 \\
 \\\\
-Oct.Code.Commands.Score.NotAssigned=\\untranslated
+Oct.Code.Commands.Score.NotAssigned=Not Assigned
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Complete=Complete
 \\
 \\\\
-Oct.Code.Commands.Score.Complete=\\untranslated
+Oct.Code.Commands.Score.Complete=Complete
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Critical=Critical
 \\
 \\\\
-Oct.Code.Commands.Score.Critical=\\untranslated
+Oct.Code.Commands.Score.Critical=Critical
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Critical.Definition=This Command is Critical to Survival.
 \\
 \\\\
-Oct.Code.Commands.Score.Critical.Definition=\\untranslated
+Oct.Code.Commands.Score.Critical.Definition=This Command is Critical to Survival.
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Work=Work
 \\
 \\\\
-Oct.Code.Commands.Score.Work=\\untranslated
+Oct.Code.Commands.Score.Work=Work
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.Work.Definition=This Command is included in one of the Mortal's Jobs.
 \\
 \\\\
-Oct.Code.Commands.Score.Work.Definition=\\untranslated
+Oct.Code.Commands.Score.Work.Definition=This Command is included in one of the Mortal's Jobs.
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.JobPrioritized=Job Prioritized
 \\
 \\\\
-Oct.Code.Commands.Score.JobPrioritized=\\untranslated
+Oct.Code.Commands.Score.JobPrioritized=Job Prioritized
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.JobPrioritized.Definition=This Command's Job has been Prioritized from the top of the Jobs Screen.
 \\
 \\\\
-Oct.Code.Commands.Score.JobPrioritized.Definition=\\untranslated
+Oct.Code.Commands.Score.JobPrioritized.Definition=This Command's Job has been Prioritized from the top of the Jobs Screen.
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.SetupBaseFirst=Setup Base first
 \\
 \\\\
-Oct.Code.Commands.Score.SetupBaseFirst=\\untranslated
+Oct.Code.Commands.Score.SetupBaseFirst=Setup Base first
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.SetupBaseFirst.Definition=This Command is less important than setting up the initial base.
 \\
 \\\\
-Oct.Code.Commands.Score.SetupBaseFirst.Definition=\\untranslated
+Oct.Code.Commands.Score.SetupBaseFirst.Definition=This Command is less important than setting up the initial base.
 
 \\\\
 \\
 \\	Oct.Code.Commands.Deltas.OutOfTime=Job Time Limit Reached
 \\
 \\\\
-Oct.Code.Commands.Deltas.OutOfTime=\\untranslated
+Oct.Code.Commands.Deltas.OutOfTime=Job Time Limit Reached
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.NotIncludedInScheme=Not Included in Scheme
 \\
 \\\\
-Oct.Code.Commands.Score.NotIncludedInScheme=\\untranslated
+Oct.Code.Commands.Score.NotIncludedInScheme=Not Included in Scheme
 
 \\\\
 \\
 \\	Oct.Code.Commands.Score.HelpOut=Help out
 \\
 \\\\
-Oct.Code.Commands.Score.HelpOut=\\untranslated
+Oct.Code.Commands.Score.HelpOut=Help out
 
 \\\\
 \\
 \\	Oct.Code.Commands.Deltas.InBattle=Target in Battle
 \\
 \\\\
-Oct.Code.Commands.Deltas.InBattle=\\untranslated
+Oct.Code.Commands.Deltas.InBattle=Target in Battle
 
 \\\\
 \\
 \\	Oct.Code.Commands.Heuristic.Blocked=Blocked
 \\
 \\\\
-Oct.Code.Commands.Heuristic.Blocked=\\untranslated
+Oct.Code.Commands.Heuristic.Blocked=Blocked
 
 \\\\
 \\
@@ -14820,7 +14820,7 @@ Oct.Code.Commands.Items.Move=Move
 \\	Oct.Code.Commands.items.AssignedStorage=Assigned Storage
 \\
 \\\\
-Oct.Code.Commands.items.AssignedStorage=\\untranslated
+Oct.Code.Commands.items.AssignedStorage=Assigned Storage
 
 \\\\
 \\
@@ -15044,63 +15044,63 @@ Oct.Code.Commands.Gather=Gather
 \\	Oct.Code.Commands.Work.Modifiers=Modifiers
 \\
 \\\\
-Oct.Code.Commands.Work.Modifiers=\\untranslated
+Oct.Code.Commands.Work.Modifiers=Modifiers
 
 \\\\
 \\
 \\	Oct.Code.Commands.Assigned=Assigned
 \\
 \\\\
-Oct.Code.Commands.Assigned=\\untranslated
+Oct.Code.Commands.Assigned=Assigned
 
 \\\\
 \\
 \\	Oct.Code.Commands.Queued=Queued
 \\
 \\\\
-Oct.Code.Commands.Queued=\\untranslated
+Oct.Code.Commands.Queued=Queued
 
 \\\\
 \\
 \\	Oct.Code.Commands.CharacterAssigned={character} Assigned
 \\
 \\\\
-Oct.Code.Commands.CharacterAssigned=\\untranslated
+Oct.Code.Commands.CharacterAssigned={character} Assigned
 
 \\\\
 \\
 \\	Oct.Code.Commands.QueuedFor=Queued for {character}
 \\
 \\\\
-Oct.Code.Commands.QueuedFor=\\untranslated
+Oct.Code.Commands.QueuedFor=Queued for {character}
 
 \\\\
 \\
 \\	Oct.Code.Commands.WasBlocked=Was Blocked
 \\
 \\\\
-Oct.Code.Commands.WasBlocked=\\untranslated
+Oct.Code.Commands.WasBlocked=Was Blocked
 
 \\\\
 \\
 \\	Oct.Code.Commands.Unassigned=Unassigned
 \\
 \\\\
-Oct.Code.Commands.Unassigned=\\untranslated
+Oct.Code.Commands.Unassigned=Unassigned
 
 \\\\
 \\
 \\	Oct.Code.Commands.Work.Score=Score
 \\
 \\\\
-Oct.Code.Commands.Work.Score=\\untranslated
+Oct.Code.Commands.Work.Score=Score
 
 \\\\
 \\
 \\	Oct.Code.Commands.Work.Reasons=Reasons
 \\
 \\\\
-Oct.Code.Commands.Work.Reasons=\\untranslated
+Oct.Code.Commands.Work.Reasons=Reasons
 
 \\\\
 \\
@@ -15310,7 +15310,7 @@ Oct.Code.Common.Decays=Decays
 \\	Oct.Code.Common.Delete=Delete
 \\
 \\\\
-Oct.Code.Common.Delete=\\untranslated
+Oct.Code.Common.Delete=Delete
 
 \\\\
 \\
@@ -16091,7 +16091,7 @@ Oct.Code.Concessions.SendItems.Available=Available
 \\	Oct.Code.Concessions.SendItems.Inconvenience=Inconvenience
 \\
 \\\\
-Oct.Code.Concessions.SendItems.Inconvenience=\\untranslated
+Oct.Code.Concessions.SendItems.Inconvenience=Inconvenience
 
 \\\\
 \\
@@ -22199,7 +22199,7 @@ Oct.Code.Items.Stats.Capacity=Capacity
 \\	Oct.Code.Job.Assigned=Assigned {job}
 \\
 \\\\
-Oct.Code.Job.Assigned=\\untranslated
+Oct.Code.Job.Assigned=Assigned {job}
 
 \\\\
 \\
@@ -22339,7 +22339,7 @@ Oct.Code.Kingdom.Dissolved={kingdom} Dissolved!
 \\	Oct.Code.Kingdom.CannotRelocate.NoRuler=No Ruler!
 \\
 \\\\
-Oct.Code.Kingdom.CannotRelocate.NoRuler=\\untranslated
+Oct.Code.Kingdom.CannotRelocate.NoRuler=No Ruler!
 
 \\\\
 \\
@@ -22614,21 +22614,21 @@ Oct.Code.LoadGame.DeleteConfirmation.Header=Delete {name}?
 \\	Oct.Code.LoadGame.DeleteConfirmation=The file will be pernanently deleted.<br>
 \\
 \\\\
-Oct.Code.LoadGame.DeleteConfirmation=The file will be sent to the recycle bin.<br>
+Oct.Code.LoadGame.DeleteConfirmation=The file will be pernanently deleted.<br>
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.DeleteAll.Confirmation.Header=Delete Listed?
 \\
 \\\\
-Oct.Code.LoadGame.DeleteAll.Confirmation.Header=\\untranslated
+Oct.Code.LoadGame.DeleteAll.Confirmation.Header=Delete Listed?
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.DeleteAll.Confirmation=The files listed will all be <br><b>PERMANENTLY DELETED</b>.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.LoadGame.DeleteAll.Confirmation=\\untranslated
+Oct.Code.LoadGame.DeleteAll.Confirmation=The files listed will all be <br><b>PERMANENTLY DELETED</b>.<br><br>Continue?<br>
 
 \\\\
 \\
@@ -22642,7 +22642,7 @@ Oct.Code.LoadGame.Header=Load Game
 \\	Oct.Code.LoadGame.Filter=Filter
 \\
 \\\\
-Oct.Code.LoadGame.Filter=\\untranslated
+Oct.Code.LoadGame.Filter=Filter
 
 \\\\
 \\
@@ -22670,7 +22670,7 @@ Oct.Code.LoadGame.Mods.Match.Caption=Match
 \\	Oct.Code.LoadGame.Delete.Listed=Delete {count} Listed
 \\
 \\\\
-Oct.Code.LoadGame.Delete.Listed=\\untranslated
+Oct.Code.LoadGame.Delete.Listed=Delete {count} Listed
 
 \\\\
 \\
@@ -24998,7 +24998,7 @@ Oct.Code.Save.DiscardProgress=Unsaved progress will be lost.<br><br>Continue?<br
 \\	Oct.Code.Save.Preset.Delete=The Preset will <br><b>PERMANENTLY DELETED<\b>.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.Save.Preset.Delete=\\untranslated
+Oct.Code.Save.Preset.Delete=The Preset will <br><b>PERMANENTLY DELETED<\b>.<br><br>Continue?<br>
 
 \\\\
 \\
@@ -25040,21 +25040,21 @@ Oct.Code.Schedule.Header=Schedule
 \\	Oct.Code.Schedule.Copy=Copy
 \\
 \\\\
-Oct.Code.Schedule.Copy=\\untranslated
+Oct.Code.Schedule.Copy=Copy
 
 \\\\
 \\
 \\	Oct.Code.Schedule.Paste=Paste
 \\
 \\\\
-Oct.Code.Schedule.Paste=\\untranslated
+Oct.Code.Schedule.Paste=Paste
 
 \\\\
 \\
 \\	Oct.Code.Schedule.ClearAll=Clear All
 \\
 \\\\
-Oct.Code.Schedule.ClearAll=\\untranslated
+Oct.Code.Schedule.ClearAll=Clear All
 
 \\\\
 \\
@@ -25712,42 +25712,42 @@ Oct.Code.Stockpile.Header=Stockpile
 \\	Oct.Code.Storage.Free=Storage Free
 \\
 \\\\
-Oct.Code.Storage.Free=\\untranslated
+Oct.Code.Storage.Free=Storage Free
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots=Slots
 \\
 \\\\
-Oct.Code.Storage.Slots=\\untranslated
+Oct.Code.Storage.Slots=Slots
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Used=Used
 \\
 \\\\
-Oct.Code.Storage.Slots.Used=\\untranslated
+Oct.Code.Storage.Slots.Used=Used
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Reserved=Reserved
 \\
 \\\\
-Oct.Code.Storage.Slots.Reserved=\\untranslated
+Oct.Code.Storage.Slots.Reserved=Reserved
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Remaining=Remaining
 \\
 \\\\
-Oct.Code.Storage.Slots.Remaining=\\untranslated
+Oct.Code.Storage.Slots.Remaining=Remaining
 
 \\\\
 \\
 \\	Oct.Code.Storage.Slots.Insufficient=Insufficient Slots
 \\
 \\\\
-Oct.Code.Storage.Slots.Insufficient=\\untranslated
+Oct.Code.Storage.Slots.Insufficient=Insufficient Slots
 
 \\\\
 \\
@@ -26251,14 +26251,14 @@ Oct.Code.Trade.YourKingdom=Your Kingdom
 \\	Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=Insufficient Storage
 \\
 \\\\
-Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=\\untranslated
+Oct.Code.Transport.Item.Command.Blocked.InsufficientStorage=Insufficient Storage
 
 \\\\
 \\
 \\	Oct.Code.Transport.Item.Command.Blocked.Processing=Processing
 \\
 \\\\
-Oct.Code.Transport.Item.Command.Blocked.Processing=\\untranslated
+Oct.Code.Transport.Item.Command.Blocked.Processing=Processing
 
 \\\\
 \\
@@ -26468,14 +26468,14 @@ Oct.Code.Visibility.Items.Stats=Item Stats
 \\	Oct.Code.Visibility.Items.Ignored=Ignored Icons
 \\
 \\\\
-Oct.Code.Visibility.Items.Ignored=\\untranslated
+Oct.Code.Visibility.Items.Ignored=Ignored Icons
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Items.InsufficientStorage=Storage Icons
 \\
 \\\\
-Oct.Code.Visibility.Items.InsufficientStorage=\\untranslated
+Oct.Code.Visibility.Items.InsufficientStorage=Storage Icons
 
 \\\\
 \\
@@ -26594,7 +26594,7 @@ Oct.Code.Wedding.Arrange=Marry {eligible.short} and {suitor.short}!
 \\	Oct.Code.Work.Update.Next=Next Update
 \\
 \\\\
-Oct.Code.Work.Update.Next=\\untranslated
+Oct.Code.Work.Update.Next=Next Update
 
 \\\\
 \\
@@ -27079,7 +27079,7 @@ Oct.Commands.Jobs.Nursing.name=Nursing
 \\	Oct.Commands.Jobs.Nursing.tooltip=Nursing determines how quickly and successfully this Mortal treats other Mortals.
 \\
 \\\\
-Oct.Commands.Jobs.Nursing.tooltip=Nursing determines how quickly and successfully this character treats<br> other characters.
+Oct.Commands.Jobs.Nursing.tooltip=Nursing determines how quickly and successfully this Mortal treats other Mortals.
 
 \\\\
 \\
@@ -27110,7 +27110,7 @@ Oct.Commands.Jobs.Mining.name=Mining
 \\	Oct.Commands.Jobs.Mining.tooltip=Mining determines how quickly and successfully the Mortal can Mine the terrain.
 \\
 \\\\
-Oct.Commands.Jobs.Mining.tooltip=Mining determines how quickly and successfully the Character can<br>Mine the terrain.
+Oct.Commands.Jobs.Mining.tooltip=Mining determines how quickly and successfully the Mortal can Mine the terrain.
 
 \\\\
 \\
@@ -27137,7 +27137,7 @@ Oct.Commands.Jobs.Building.name=Building
 \\	Oct.Commands.Jobs.Building.tooltip=Building is very important in Noble Fates. Building determines the speed, precision, and quality of props that the Mortal builds. In addition, Building Skill gates access to more advanced recipes.
 \\
 \\\\
-Oct.Commands.Jobs.Building.tooltip=Building is very important in Noble Fates. Building determines the<br>speed, precision, and quality of props that the character builds.<br>Higher quality props will decay more slowly. In addition, Building<br>Skill gates access to more advanced recipes.
+Oct.Commands.Jobs.Building.tooltip=Building is very important in Noble Fates. Building determines the speed, precision, and quality of props that the Mortal builds. In addition, Building Skill gates access to more advanced recipes.
 
 \\\\
 \\
@@ -27170,7 +27170,7 @@ Oct.Commands.Jobs.Logging.name=Logging
 \\	Oct.Commands.Jobs.Logging.tooltip=Logging determines how quickly and successfully the Mortal can cut down Foliage - directly contributing to the resource yield.
 \\
 \\\\
-Oct.Commands.Jobs.Logging.tooltip=Logging determines how quickly and successfully the Character can cut<br>down Foliage - directly contributing to the resource yield.
+Oct.Commands.Jobs.Logging.tooltip=Logging determines how quickly and successfully the Mortal can cut down Foliage - directly contributing to the resource yield.
 
 \\\\
 \\
@@ -27199,7 +27199,7 @@ Oct.Commands.Jobs.Farming.name=Farming
 \\	Oct.Commands.Jobs.Farming.tooltip=Farming determines how quickly and successfully the Mortal can Plant and Harvest Crops - having a direct impact on their resource yield.
 \\
 \\\\
-Oct.Commands.Jobs.Farming.tooltip=Farming determines how quickly and successfully the Character can<br>Plant and Harvest Crops - having a direct impact on their resource<br>yield.
+Oct.Commands.Jobs.Farming.tooltip=Farming determines how quickly and successfully the Mortal can Plant and Harvest Crops - having a direct impact on their resource yield.
 
 \\\\
 \\
@@ -27226,7 +27226,7 @@ Oct.Commands.Jobs.Foraging.name=Foraging
 \\	Oct.Commands.Jobs.Foraging.tooltip=Foraging determines how quickly and successfully the Mortal can Harvest Foliage - directly contributing to the resource yield.
 \\
 \\\\
-Oct.Commands.Jobs.Foraging.tooltip=Foraging determines how quickly and successfully the Character can<br>Harvest Foliage - directly contributing to the resource yield.
+Oct.Commands.Jobs.Foraging.tooltip=Foraging determines how quickly and successfully the Mortal can Harvest Foliage - directly contributing to the resource yield.
 
 \\\\
 \\
@@ -27253,7 +27253,7 @@ Oct.Commands.Jobs.Hauling.name=Hauling
 \\	Oct.Commands.Jobs.Hauling.tooltip=Hauling determines how quickly the Mortal can Haul items. In addition, Hauling Skill controls the number of items that can be carried at the same time.
 \\
 \\\\
-Oct.Commands.Jobs.Hauling.tooltip=Hauling determines how quickly and successfully the Character can<br>Haul items. In addition, Hauling Skill controls the number of items<br>that can be carried at the same time.
+Oct.Commands.Jobs.Hauling.tooltip=Hauling determines how quickly the Mortal can Haul items. In addition, Hauling Skill controls the number of items that can be carried at the same time.
 
 \\\\
 \\
@@ -27280,7 +27280,7 @@ Oct.Commands.Jobs.Crafting.name=Crafting
 \\	Oct.Commands.Jobs.Crafting.tooltip=Crafting is important in Noble Fates. Crafting determines the speed, precision, and quality of items that the Mortal crafts. Higher quality leads to higher rarity of items crafted. In addition, Crafting Skill gates access to more advanced recipes.
 \\
 \\\\
-Oct.Commands.Jobs.Crafting.tooltip=Crafting is important in Noble Fates. Crafting determines the<br>speed, precision, and quality of items that the character crafts.<br>Higher quality leads to higher rarity of items crafted. In addition,<br>crafting Skill gates access to more advanced recipes.
+Oct.Commands.Jobs.Crafting.tooltip=Crafting is important in Noble Fates. Crafting determines the speed, precision, and quality of items that the Mortal crafts. Higher quality leads to higher rarity of items crafted. In addition, Crafting Skill gates access to more advanced recipes.
 
 \\\\
 \\
@@ -27313,7 +27313,7 @@ Oct.Commands.Jobs.Ranching.name=Ranching
 \\	Oct.Commands.Jobs.Ranching.tooltip=Ranching determines how quickly and successfully the Mortal can interact with Animals.
 \\
 \\\\
-Oct.Commands.Jobs.Ranching.tooltip=Ranching determines how quickly and successfully the Character can<br>interact with animals.
+Oct.Commands.Jobs.Ranching.tooltip=Ranching determines how quickly and successfully the Mortal can interact with Animals.
 
 \\\\
 \\
@@ -27340,7 +27340,7 @@ Oct.Commands.Jobs.Hunting.name=Hunting
 \\	Oct.Commands.Jobs.Hunting.tooltip=Hunting determines how quickly and successfully the Mortal can Hunt Animals.<br><br>Hunting is backed by the Ranged Skill which controls the speed and accuracy of their ranged shots, which shots they will attempt, and the amount of their Weapon's damage that is inflicted on target.
 \\
 \\\\
-Oct.Commands.Jobs.Hunting.tooltip=Hunting determines how quickly and successfully the Character can<br>Hunt Animals. <br><br>Hunting is backed by the Ranged Skill which controls the speed and<br>accuracy of their ranged shots, which shots they will attempt, and<br>the amount of their Weapon's damage that is inflicted on target.
+Oct.Commands.Jobs.Hunting.tooltip=Hunting determines how quickly and successfully the Mortal can Hunt Animals.<br><br>Hunting is backed by the Ranged Skill which controls the speed and accuracy of their ranged shots, which shots they will attempt, and the amount of their Weapon's damage that is inflicted on target.
 
 \\\\
 \\
@@ -27371,7 +27371,7 @@ Oct.Commands.Jobs.Cooking.name=Cooking
 \\	Oct.Commands.Jobs.Cooking.tooltip=Cooking determines how quickly and successfully the Mortal can Cook. Cooking contributes to recipe yield.
 \\
 \\\\
-Oct.Commands.Jobs.Cooking.tooltip=Cooking determines how quickly and successfully the Character can<br>Cook. Cooking contributes to recipe yield.
+Oct.Commands.Jobs.Cooking.tooltip=Cooking determines how quickly and successfully the Mortal can Cook. Cooking contributes to recipe yield.
 
 \\\\
 \\
@@ -27402,7 +27402,7 @@ Oct.Commands.Jobs.FireFighting.name=Fire Fighting
 \\	Oct.Commands.Jobs.FireFighting.tooltip=Fire Fighting Skill is based on the Mortal's level. It determines how quickly they fight fires, how successful they are at putting them out, and how likely they are to catch on fire themselves!
 \\
 \\\\
-Oct.Commands.Jobs.FireFighting.tooltip=Fire Fighting Skill is based on the character's level. It determines<br>how quickly they fight fires, how successful they are at putting them<br>out, and how likely they are to catch on fire themselves!
+Oct.Commands.Jobs.FireFighting.tooltip=Fire Fighting Skill is based on the Mortal's level. It determines how quickly they fight fires, how successful they are at putting them out, and how likely they are to catch on fire themselves!
 
 \\\\
 \\
@@ -27425,7 +27425,7 @@ Oct.Commands.Jobs.Guarding.name=Guarding
 \\	Oct.Commands.Jobs.Guarding.tooltip=Mortals assigned to Guarding will attempt to defend the Kingdom from threats. They will also handle and intimidate Prisoners and Serfs as needed.<br><br>Guarding is backed by the Mortal's Melee Skill. Melee determines how often a Mortal attacks, whether their attacks land, and the amount of their Weapon's damage that is inflicted on target.
 \\
 \\\\
-Oct.Commands.Jobs.Guarding.tooltip=Characters assigned to Guarding will attempt to defend the Kingdom<br>from threats. They will also handle and intimidate Prisoners and Serfs<br>as needed. <br><br>Guarding is backed by the character's Melee Skill. Melee determines<br>how often a character attacks, whether their attacks land, and the<br>amount of their Weapon's damage that is inflicted on target.
+Oct.Commands.Jobs.Guarding.tooltip=Mortals assigned to Guarding will attempt to defend the Kingdom from threats. They will also handle and intimidate Prisoners and Serfs as needed.<br><br>Guarding is backed by the Mortal's Melee Skill. Melee determines how often a Mortal attacks, whether their attacks land, and the amount of their Weapon's damage that is inflicted on target.
 
 \\\\
 \\
@@ -27450,7 +27450,7 @@ Oct.Commands.Jobs.Preaching.name=Preaching
 \\	Oct.Commands.Jobs.Preaching.tooltip=Preaching determines how quickly and successfully this Mortal influences other Mortals.
 \\
 \\\\
-Oct.Commands.Jobs.Preaching.tooltip=Preaching determines how quickly and successfully this character influences<br> other characters.
+Oct.Commands.Jobs.Preaching.tooltip=Preaching determines how quickly and successfully this Mortal influences other Mortals.
 
 \\\\
 \\
@@ -27487,7 +27487,7 @@ Oct.Commands.Jobs.Cleaning.name=Cleaning
 \\	Oct.Commands.Jobs.Cleaning.tooltip=Cleaning determines how quickly and successfully the Mortal can Clean up debris.
 \\
 \\\\
-Oct.Commands.Jobs.Cleaning.tooltip=Cleaning determines how quickly and successfully the Character can<br>Clean up debris.
+Oct.Commands.Jobs.Cleaning.tooltip=Cleaning determines how quickly and successfully the Mortal can Clean up debris.
 
 \\\\
 \\
@@ -27518,7 +27518,7 @@ Oct.Commands.Jobs.Training.name=Training
 \\	Oct.Commands.Jobs.Training.tooltip=Training determines when Mortals train their skills when there's no higher priority work.
 \\
 \\\\
-Oct.Commands.Jobs.Training.tooltip=Training determines when characters train their skills when there's no higher priority work.
+Oct.Commands.Jobs.Training.tooltip=Training determines when Mortals train their skills when there's no higher priority work.
 
 \\\\
 \\
@@ -27777,14 +27777,14 @@ Oct.Commands.Types.Deposit.name=Deliver
 \\	Oct.Commands.Types.Haul.name=Store Multiple
 \\
 \\\\
-Oct.Commands.Types.Haul.name=Haul
+Oct.Commands.Types.Haul.name=Store Multiple
 
 \\\\
 \\
 \\	Oct.Commands.Types.Transport.Item.name=Store
 \\
 \\\\
-Oct.Commands.Types.Transport.Item.name=\\untranslated
+Oct.Commands.Types.Transport.Item.name=Store
 
 \\\\
 \\
@@ -27945,7 +27945,7 @@ Oct.Commands.Types.FirePropProjectile.name=Operate Prop
 \\	Oct.Commands.Types.Store.name=Store Old
 \\
 \\\\
-Oct.Commands.Types.Store.name=\\untranslated
+Oct.Commands.Types.Store.name=Store Old
 
 \\\\
 \\
@@ -27959,7 +27959,7 @@ Oct.Commands.Types.Clean.name=Clean
 \\	Oct.Commands.Types.Weed.name=Weed
 \\
 \\\\
-Oct.Commands.Types.Weed.name=\\untranslated
+Oct.Commands.Types.Weed.name=Weed
 
 \\\\
 \\
@@ -28022,7 +28022,7 @@ Oct.Commands.Types.Capture.name=Capture
 \\	Oct.Commands.Types.Imprison.name=Transport Prisoner
 \\
 \\\\
-Oct.Commands.Types.Imprison.name=Imprison
+Oct.Commands.Types.Imprison.name=Transport Prisoner
 
 \\\\
 \\
@@ -28050,14 +28050,14 @@ Oct.Commands.Types.Influence.name=Preach To
 \\	Oct.Commands.Types.Evangelize.name=Evangelize
 \\
 \\\\
-Oct.Commands.Types.Evangelize.name=\\untranslated
+Oct.Commands.Types.Evangelize.name=Evangelize
 
 \\\\
 \\
 \\	Oct.Commands.Types.Evangelize.tooltip=Your Preachers share information with the Target that they think raise their Opinion of your Ruler. Other Mortals who Dislike the information may overhear it and have a Negative Reaction.<br><br>Preaching Skill and Reasoning determine how well they pick information to share and how well it is received by those who hear it.<br><br>Preachers will stop when they run out of things to share or the Target Likes (or Loves when Ordered via Right Click) your Ruler.
 \\
 \\\\
-Oct.Commands.Types.Evangelize.tooltip=\\untranslated
+Oct.Commands.Types.Evangelize.tooltip=Your Preachers share information with the Target that they think raise their Opinion of your Ruler. Other Mortals who Dislike the information may overhear it and have a Negative Reaction.<br><br>Preaching Skill and Reasoning determine how well they pick information to share and how well it is received by those who hear it.<br><br>Preachers will stop when they run out of things to share or the Target Likes (or Loves when Ordered via Right Click) your Ruler.
 
 \\\\
 \\
@@ -31850,7 +31850,6 @@ Oct.Grammar.Lines.Opinion.Third.Third.Third.results+=^[Oct.Grammar.Opinion.Noun.
 \\\\
 Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think> {grammar.alignmentStatement}
 Oct.Grammar.Lines.Alignment.Generic.results+=<Oct.Grammar.Noun.First.Think> that {grammar.alignmentStatement}
-Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 
 \\\\
 \\
@@ -31859,7 +31858,9 @@ Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 \\	Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}
 \\
 \\\\
-Oct.Grammar.Lines.Alignment.Details.First.results+=\\untranslated
+Oct.Grammar.Lines.Alignment.Details.First.results+=<Oct.Grammar.Noun.First.Think> {grammar.alignmentStatement}
+Oct.Grammar.Lines.Alignment.Details.First.results+=<Oct.Grammar.Noun.First.Think> that {grammar.alignmentStatement}
+Oct.Grammar.Lines.Alignment.Details.First.results+={grammar.alignmentStatement}
 
 \\\\
 \\
@@ -42214,7 +42215,6 @@ Oct.Kingdoms.Diplomacy.War.Conquer.details={from.kingdom} has sent their full fo
 \\\\
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=Alright, it's time to settle this.
 Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=Okay, let's resolve this.
-Oct.Kingdoms.Diplomacy.War.Conquer.Conversation.Alright.lines+=Fine, have it your way.
 
 \\\\
 \\
@@ -44722,7 +44722,7 @@ Oct.Moments.Complaint.Petition.Conversation.Watching.Fear.Demand.line=Them or me
 \\\\
 Oct.Moments.Complaint.Petition.Conversation.Lie.lines+={petitioner.address}! I believe {complainee} is plotting to assassinate you!
 Oct.Moments.Complaint.Petition.Conversation.Lie.lines+={ruler}! I'm convinced that there is a plot to dethrone you lead by none other than {complainee}!
-Oct.Moments.Complaint.Petition.Conversation.Lie.lines+={ruler}! I believe there's a plot by {complainee}'s plot to dethrone you!
+Oct.Moments.Complaint.Petition.Conversation.Lie.lines+={ruler}! I believe there's a plot by {complainee} to dethrone you!
 Oct.Moments.Complaint.Petition.Conversation.Lie.lines+={petitioner.address}! {complainee} has been insulting you behind your back!
 
 \\\\
@@ -50833,7 +50833,9 @@ Oct.Petitions.Tutorial.GatherBerries.Conversation.Surveyed.Bushes.Oh.Pick.line=P
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={petitioner.address}, {attackers} are about to attack {vassal}!
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={petitioner.address}, {attackers} are attacking {vassal}!
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={petitioner.address}, {vassal} are under attack from {attackers}!
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+={petitioner.address}, {attackers} are about to attack {vassal}!
 
 \\\\
 \\
@@ -50844,7 +50846,9 @@ Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.lines+=\\untranslated
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=We can interrupt them by negotiating for Peace.
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=Perhaps we should intervene by negotiating for Peace.
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=Maybe we should negotiate for Peace between them.
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=We can interrupt them by negotiating for Peace.
 
 \\\\
 \\
@@ -50855,7 +50859,9 @@ Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.lines+=\\unt
 \\	Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=Hrm. Let me think about it.
 \\
 \\\\
-Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=\\untranslated
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=Thanks, I will consider it.
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=Leave it to me.
+Oct.Petitions.Vassal.UnderAttack.Conversation.UnderAttack.Intervene.Thanks.lines+=Hrm. Let me think about it.
 
 \\\\
 \\
@@ -52600,21 +52606,21 @@ Oct.Props.Ballista.description=Large Fireable Prop.<br>Accurate, single target.
 \\	Oct.Props.Ballista.colorSlots.1.name=Primary
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.1.name=Wood
+Oct.Props.Ballista.colorSlots.1.name=Primary
 
 \\\\
 \\
 \\	Oct.Props.Ballista.colorSlots.2.name=Secondary
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.2.name=Wood
+Oct.Props.Ballista.colorSlots.2.name=Secondary
 
 \\\\
 \\
 \\	Oct.Props.Ballista.colorSlots.3.name=Rope
 \\
 \\\\
-Oct.Props.Ballista.colorSlots.3.name=Wood
+Oct.Props.Ballista.colorSlots.3.name=Rope
 
 \\\\
 \\
@@ -68415,14 +68421,14 @@ Oct.Settings.Game.AI.Wealth.tooltip=How efficiently AI Kingdoms Accumulate Wealt
 \\	Oct.Settings.Game.AI.InconveniencePremium.name=AI Kingdom Inconvenience Premium
 \\
 \\\\
-Oct.Settings.Game.AI.InconveniencePremium.name=\\untranslated
+Oct.Settings.Game.AI.InconveniencePremium.name=AI Kingdom Inconvenience Premium
 
 \\\\
 \\
 \\	Oct.Settings.Game.AI.InconveniencePremium.tooltip=How much AI Kingdoms raise rates on Concessions for Items they consider inconvenient (< 25c per stack).
 \\
 \\\\
-Oct.Settings.Game.AI.InconveniencePremium.tooltip=\\untranslated
+Oct.Settings.Game.AI.InconveniencePremium.tooltip=How much AI Kingdoms raise rates on Concessions for Items they consider inconvenient (< 25c per stack).
 
 \\\\
 \\
@@ -68877,21 +68883,21 @@ Oct.Settings.Global.Graphics.ShadowQuality.choices.2=Low
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.3=Medium
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.3=High
+Oct.Settings.Global.Graphics.ShadowQuality.choices.3=Medium
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.4=High
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.4=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.4=High
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.5=Very High
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.5=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.5=Very High
 
 \\\\
 \\
@@ -68968,28 +68974,28 @@ Oct.Settings.Global.Graphics.Destruction.name=Destruction
 \\	Oct.Settings.Global.Graphics.MainMenuSimulation.name=Main Menu Simulation
 \\
 \\\\
-Oct.Settings.Global.Graphics.MainMenuSimulation.name=\\untranslated
+Oct.Settings.Global.Graphics.MainMenuSimulation.name=Main Menu Simulation
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=Controls whether a Simulation runs underneath the Main Menu.
 \\
 \\\\
-Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.MainMenuSimulation.tooltip=Controls whether a Simulation runs underneath the Main Menu.
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ReachabilityResources.name=Reachability CPU
 \\
 \\\\
-Oct.Settings.Global.Graphics.ReachabilityResources.name=\\untranslated
+Oct.Settings.Global.Graphics.ReachabilityResources.name=Reachability CPU
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=Additional CPU Resources to dedicate to minimizing Reachability update latency. Decrease in latency is exponential, with 0% resulting in 10s of latency, 25% in ~1s, and 100% in ~.25s.
 \\
 \\\\
-Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.ReachabilityResources.tooltip=Additional CPU Resources to dedicate to minimizing Reachability update latency. Decrease in latency is exponential, with 0% resulting in 10s of latency, 25% in ~1s, and 100% in ~.25s.
 
 \\\\
 \\
@@ -69794,7 +69800,7 @@ Oct.Settings.Global.Controls.Layers.Navigate.suffix=+ [Wheel]
 \\	Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=Invert Layer Navigation
 \\
 \\\\
-Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=\\untranslated
+Oct.Settings.Global.Controls.Layers.Navigate.Invert.name=Invert Layer Navigation
 
 \\\\
 \\
@@ -70609,7 +70615,7 @@ Oct.Story.Desertion.LastRaid.Conversation.Enough.line=Okay, I've had enough of t
 \\	Oct.Story.Desertion.LastRaid.Conversation.Enough.Unwilling.line=Since you seem unwilling to come and face me, I've come to you.
 \\
 \\\\
-Oct.Story.Desertion.LastRaid.Conversation.Enough.Unwilling.line=Since you seem unwilling (unable?!?) to come and face me, I've come to you.
+Oct.Story.Desertion.LastRaid.Conversation.Enough.Unwilling.line=Since you seem unwilling to come and face me, I've come to you.
 
 \\\\
 \\
